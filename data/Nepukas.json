@@ -1,1 +1,18 @@
-
+{
+    "id": 96916804,
+    "name": "Nepukas",
+    "author": "jontedensjuke",
+    "creators": ["jontedensjuke"],
+    "verifier": "jontedensjuke",
+    "verification": "https://youtu.be/IOMSy0NT4_o",
+    "percentToQualify": 100,
+    "password": "-",
+    "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/IOMSy0NT4_o",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
