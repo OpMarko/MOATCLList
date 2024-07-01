@@ -1,0 +1,18 @@
+{
+    "id": 94069575,
+    "name": "Sakupen Triangles",
+    "author": "Tete",
+    "creators": ["Tete"],
+    "verifier": "Tete",
+    "verification": "https://youtu.be/PHyALAXQsvg",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/PHyALAXQsvg",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
