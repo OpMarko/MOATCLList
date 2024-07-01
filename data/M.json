@@ -19,6 +19,12 @@
             "link": "https://youtu.be/14syBvdwIUI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "KrazyFF",
+            "link": "https://www.youtube.com/watch?v=ISEx_2z6jgo",
+            "percent": 100,
+            "hz": -123
         }
     ]
 }
