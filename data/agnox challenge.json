@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+        {
+            "user": "KrazyFF",
+            "link": "https://youtu.be/-Lp8uoOg9P0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
-
