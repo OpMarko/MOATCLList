@@ -21,8 +21,8 @@ header.dark {
     --color-primary: #0D98BA;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
-    --color-extended: rgba(0, 255, 255, 0.75);
-    --color-legacy: rgba(0, 255, 255, 0.5);
+    --color-extended: rgba(255, 255, 255, 0.75);
+    --color-legacy: rgba(255, 255, 255, 0.5);
     --color-error: #de0000;
     --color-on-error: white;
 }
