@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+        {
+            "user": "Putte",
+            "link": "https://medal.tv/games/geometry-dash/clips/ibzOz7HsyhDruVLPL/d1337ikOr9p9?invite=cr-MSxsTlosMjA5OTMyMzYyLA",
+            "percent": 100,
+            "hz": -1
+        }
     ]
 }
