@@ -1,0 +1,18 @@
+{
+    "id": 97002741,
+    "name": "markos dingle",
+    "author": "KrazyFF",
+    "creators": ["KrazyFF"],
+    "verifier": "KrazyFF",
+    "verification": "https://youtu.be/V2wXBG2n6qY",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+    {
+            "user": "Marko",
+            "link": "https://youtu.be/V2wXBG2n6qY",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
