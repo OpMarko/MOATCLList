@@ -87,10 +87,10 @@ main > div {
 
 .spinner {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: -500vw;
-  height: -500vh;
+  top: -1000;
+  left: -1000;
+  width: -1vw;
+  height: -1vh;
   display: flex;
   align-items: center;
   justify-content: center;
