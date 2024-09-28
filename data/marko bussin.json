@@ -1,19 +1,13 @@
 {
-    "id": 97029347,
+    "id": 110600165,
     "name": "marko bussin",
-    "author": "KrazyFF",
+    "author": "Marko",
     "creators": ["KrazyFF"],
-    "verifier": "KrazyFF",
+    "verifier": "Marko",
     "verification": "https://youtu.be/7PxCcLXr3mk",
     "percentToQualify": "100",
     "password": "-",
     "records": [
-        {
-            "user": "Marko",
-            "link": "https://youtu.be/7PxCcLXr3mk",
-            "percent": 100,
-            "hz": 144
-        },
         {
             "user": "Putte",
             "link": "https://medal.tv/games/geometry-dash/clips/ic2QjV8gmqmq4hRMb/d1337Zt8Pcuw?invite=cr-MSxRaXcsMjA5OTMyMzYyLA",
