@@ -1,18 +1,11 @@
 {
-    "id": 98807459,
+    "id": 110600102,
     "name": "marko gyaat",
-    "author": "KrazyFF",
+        "author": "Marko",
     "creators": ["KrazyFF"],
-    "verifier": "KrazyFF",
+    "verifier": "Putte",
     "verification": "https://youtu.be/HQLcFJX-1aM",
     "percentToQualify": "100",
     "password": "-",
     "records": [
-        {
-            "user": "Putte",
-            "link": "https://youtu.be/HQLcFJX-1aM",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
 }
