@@ -10,9 +10,15 @@
     "records": [
         {
             "user": "OK1324",
+            "link": "https://medal.tv/games/geometry-dash/clips/ieVE5CWOa0bNppoNL/ee6M2wh7uBVo?invite=cr-MSxyUUssMjA5OTMyMzYyLA",
+            "percent": 100,
+            "hz": -1
+        },
+        {
+            "user": "Putte",
             "link": "https://www.youtube.com/watch?v=z7PUIh57bEk",
             "percent": 100,
             "hz": -1
-        }
+        },
     ]
 }
