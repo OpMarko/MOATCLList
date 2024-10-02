@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-{
+        {
             "user": "OK1324",
             "link": "https://www.youtube.com/watch?v=TeHVnGj9kfE",
             "percent": 100,
@@ -20,7 +20,7 @@
             "percent": 100,
             "hz": 144,
         },
-            {
+        {
             "user": "Wiktor",
             "link": "https://www.youtube.com/watch?v=V8z-FQJKmMc&t=62s",
             "percent": 100,
