@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=XUiIGhYXWqw",
             "percent": 100,
             "hz": -1
+        },
+        {
+            "user": "Lorde",
+            "link": "https://youtu.be/9tAO5I4U9-0",
+            "percent": 100,
+            "hz": -1
         }
     ]
 }
