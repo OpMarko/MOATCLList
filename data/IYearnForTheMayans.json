@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+      {
+            "user": "Shinxer",
+            "link": "https://medal.tv/games/geometry-dash/clips/iMjOQvpNqksObxP-G?invite=cr-MSwzWEssMjE3OTYxMDM5LA",
+            "percent": 100,
+            "hz": -1
+        }
     ]
 }
